@@ -1,2 +1,2 @@
 # Clinica-Salud-Vital
-Web sobre una clínica, con sus especialidades y posibilidad de agendar cita
+Proyecto de clase: web sobre una clínica, con sus especialidades y posibilidad de agendar citas
